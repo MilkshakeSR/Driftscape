@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Driftscape</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 08 Nov 2026 02:00:25 +1100</pubDate>
+            <link>https://github.com/MilkshakeSR/Driftscape</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><title>Driftscape 1.0.0</title>
+<style>body{font:13px -apple-system,sans-serif;margin:16px;color:#222}h2{margin:0 0 4px}h3{margin:14px 0 4px;color:#6a55c8}
+li{margin:3px 0}@media (prefers-color-scheme:dark){body{color:#eee;background:#1e1e1e}}</style></head>
+<body><h2>Driftscape 1.0.0</h2><p>First release</p><h3>Added</h3><ul><li>Live wallpapers on every display and every Space, drawn behind your desktop icons with Metal, including behind the menu bar and notch.</li><li>38 original, procedurally generated wallpapers in six collections: Water, Rain &amp; Windows, Space, Nature, City &amp; Cosy and Abstract.</li><li>Real time of day: the sun&#x27;s position for your location drives sunrise colours, golden hour, dusk and starry nights, with the moon in its real phase.</li><li>Real weather from Open-Meteo every 30 minutes: clouds, rain, snow, fog, wind and thunderstorms fade in smoothly (rain takes two minutes to arrive). A weather preview menu lets you try Clear, Cloudy, Rain, Storm, Snow and Fog.</li><li>Optional music reactivity (off by default): wallpapers breathe gently with what your Mac is playing, using system audio, screen-capture audio or an input device. Sound is analysed live and never recorded.</li><li>Library with live hover previews, collections, search and favourites.</li><li>Studio with a large live preview, automatic controls for every setting, time/weather/music toggles, Randomize, Reset, undo and redo, and Save as Preset.</li><li>Schedules by time of day (dawn, sunrise, day, golden hour, sunset, night or set times) or a shuffle playlist, with crossfades.</li><li>A different wallpaper for each display.</li><li>Export a 5K still (PNG) or a seamless 10-second loop (MP4).</li><li>Lock screen and Mission Control kept in step with a still frame every 15 minutes, with your own wallpaper restored when you quit.</li><li>A Driftscape screen saver, installed with one click from Settings.</li><li>Energy saving: 30 fps at 75% resolution by default, and a complete pause when the desktop is covered, the screen is locked or asleep, in Low Power Mode or (optionally) on battery. A live CPU and GPU readout in Settings.</li><li>Menu bar menu, onboarding, Settings, automatic updates and a screen saver.</li></ul></body></html>]]></description>
+            <enclosure url="https://github.com/MilkshakeSR/Driftscape/releases/download/v1.0.0/Driftscape.dmg" length="3705768" type="application/octet-stream" sparkle:edSignature="8+P5FCl8JtuzRh2FejaVEkKofo0TI13WdB5R5SaOtpIZpG7nwVem+gDCGnk5MSsfHCs5zNSWTzV8RBQBauVHCQ=="/>
+        </item>
+    </channel>
+</rss>
